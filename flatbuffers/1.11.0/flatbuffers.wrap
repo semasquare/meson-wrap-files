@@ -1,0 +1,10 @@
+[wrap-file]
+directory = flatbuffers-1.11.0
+
+source_url = https://github.com/google/flatbuffers/archive/v1.11.0.tar.gz
+source_filename = flatbuffers-1.11.0.tar.gz
+source_hash = 3f4a286642094f45b1b77228656fbd7ea123964f19502f9ecfd29933fd23a50b
+
+patch_url = https://github.com/semasquare/meson-wrap-files/raw/master/flatbuffers/1.11.0/flatbuffers-1.11.0-patch.zip
+patch_filename = flatbuffers-1.11.0-patch.zip
+patch_hash = 843bb13aadd52181e561b1f6d9b9aa2a5b58c786907539b61ceab47a9d1ce035
