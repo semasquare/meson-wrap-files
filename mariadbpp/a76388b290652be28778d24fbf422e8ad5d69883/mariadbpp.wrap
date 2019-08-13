@@ -1,0 +1,4 @@
+[wrap-git]
+directory = mariadbpp
+url = https://github.com/semasquare/mariadbpp.git
+revision = a76388b290652be28778d24fbf422e8ad5d69883
